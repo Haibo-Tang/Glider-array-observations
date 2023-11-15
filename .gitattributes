@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 fig_1a.mat filter=lfs diff=lfs merge=lfs -text
 defualtAxes.m filter=lfs diff=lfs merge=lfs -text
 fig_1a.m filter=lfs diff=lfs merge=lfs -text
+=======
+FIG_1 filter=lfs diff=lfs merge=lfs -text
+>>>>>>> d82223886554f31547353b1e6e8c6c210f83ef60
+*.mat filter=lfs diff=lfs merge=lfs -text
