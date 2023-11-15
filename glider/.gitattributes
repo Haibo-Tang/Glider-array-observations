@@ -1,0 +1,12 @@
+1000J008.mat filter=lfs diff=lfs merge=lfs -text
+1000K003.mat filter=lfs diff=lfs merge=lfs -text
+1000K007.mat filter=lfs diff=lfs merge=lfs -text
+1000K008.mat filter=lfs diff=lfs merge=lfs -text
+300K003.mat filter=lfs diff=lfs merge=lfs -text
+300K004.mat filter=lfs diff=lfs merge=lfs -text
+1000J003.mat filter=lfs diff=lfs merge=lfs -text
+1000J005.mat filter=lfs diff=lfs merge=lfs -text
+1000K005.mat filter=lfs diff=lfs merge=lfs -text
+300K001.mat filter=lfs diff=lfs merge=lfs -text
+1000J007.mat filter=lfs diff=lfs merge=lfs -text
+1000K004.mat filter=lfs diff=lfs merge=lfs -text
