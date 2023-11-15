@@ -1,0 +1,6 @@
+no[[:space:]]typhone filter=lfs diff=lfs merge=lfs -text
+precip3_16lev.mat filter=lfs diff=lfs merge=lfs -text
+total filter=lfs diff=lfs merge=lfs -text
+typhone filter=lfs diff=lfs merge=lfs -text
+gui_default.mat filter=lfs diff=lfs merge=lfs -text
+load_date.m filter=lfs diff=lfs merge=lfs -text
