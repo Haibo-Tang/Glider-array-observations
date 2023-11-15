@@ -1,0 +1,7 @@
+fig_a&b.m filter=lfs diff=lfs merge=lfs -text
+glider_code.m filter=lfs diff=lfs merge=lfs -text
+gliderdata_grid.mat filter=lfs diff=lfs merge=lfs -text
+jet_pv.mat filter=lfs diff=lfs merge=lfs -text
+BlueDarkRed18-pv.mat filter=lfs diff=lfs merge=lfs -text
+fig_6.mat filter=lfs diff=lfs merge=lfs -text
+fig_6c&d&e&f.m filter=lfs diff=lfs merge=lfs -text
